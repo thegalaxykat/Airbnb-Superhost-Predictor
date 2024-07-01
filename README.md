@@ -2,7 +2,7 @@
 A logistic regression model to predict Airbnb superhosts with Ski-kit learn
 
 ## Usage
-Load the sci-kit-learn model stored in the pickle file.
+Load the scikit-learn model stored in the pickle file.
 ``` python
 import pickle
 from sklearn.linear_model import LogisticRegression
